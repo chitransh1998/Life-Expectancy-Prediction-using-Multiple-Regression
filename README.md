@@ -32,7 +32,7 @@ Our goal is to predict Life expectancy based on the features.
 
 ## Model
 
-Refer the [link](https://github.com/chitransh1998/Life-Expectancy-Prediction-using-Multiple-Regression/blob/main/Life_Expectancy_Prediction.ipynb) for the model and details.
+Refer this [link](https://github.com/chitransh1998/Life-Expectancy-Prediction-using-Multiple-Regression/blob/main/Life_Expectancy_Prediction.ipynb) for the model and details.
 
 ## Final Insights
 
